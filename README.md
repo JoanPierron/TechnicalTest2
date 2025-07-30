@@ -72,6 +72,8 @@ Ouvre dans ton navigateur le lien donné dans la console par la commande "npm ru
 
 Le projet inclut un `Dockerfile` multi-étapes qui build le frontend, installe les dépendances backend, et lance le serveur complet.
 
+Lancer Docker Desktop ou tout appli pour Docker
+
 ### Construction de l’image Docker
 
 Depuis la racine du projet, exécute :
