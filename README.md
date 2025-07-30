@@ -94,6 +94,8 @@ Un fichier docker.compose.yml est fourni pour simplifier la construction et le l
 
 ### Démarrer le projet
 
+Lancer Docker Desktop ou tout appli pour Docker
+
 À la racine du projet (TechnicalTest2)
 
 ```
